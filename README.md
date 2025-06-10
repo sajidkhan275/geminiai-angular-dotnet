@@ -21,11 +21,11 @@ Follow the steps below to clone and run the project on your local system:
 ### Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/choudharymahipal/gemini-ai-angular.git
+    git clone geminiai-angular-dotnet
     ```
 2. Navigate to the project directory:
     ```bash
-    cd gemini-ai-angular
+    cd geminiai-angular
     ```
 3. Install dependencies:
     ```bash
